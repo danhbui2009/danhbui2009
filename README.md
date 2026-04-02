@@ -6,7 +6,7 @@
 
 ### 👨‍💼 Business Professional | 🚀 CS50x Graduate | 💻 Tech Enthusiast
 
-I am a results-driven professional with an extensive background in **Sales Management (ASM)** and a newly acquired passion for **Software Engineering**. Having successfully completed Harvard's **CS50x** with high distinction, I specialize in building data-driven solutions that bridge the gap between business operations and technology.
+Results-oriented Sales Management professional pivoting to Software Engineering. Certified in Harvard’s CS50x and CS50P, I possess a strong command of computer science fundamentals and Python-based automation. I am dedicated to bridging the gap between high-level business strategy and technical execution through data-driven software solutions.
 
 ---
 
